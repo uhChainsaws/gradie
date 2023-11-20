@@ -2,9 +2,9 @@
 > Gradient Climb + LAB7 for CALC03 Course
 
 Лаба вариант №10
-> by Кравчук Владислав
-> ISU\[368372\]
-> @uhChainsaws
+> by Кравчук Владислав \
+> ISU\[368372\] \
+> @uhChainsaws 
 
 В репозитории представлены:
 * `lab7.typ` -- `typst` сорс-файл для генерации доклада
